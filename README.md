@@ -36,6 +36,17 @@
       <a href="https://github.com/Liggggggg/MyoPs-net-"><b>查看项目 →</b></a>
     </td>
   </tr>
+  <tr>
+    <td width="28%" valign="top">
+      <h3>Motion Video</h3>
+      <samp>Video Generation<br />Results Archive</samp>
+    </td>
+    <td valign="top">
+      <h3>人物运动视频生成</h3>
+      <p>整理人物运动视频生成相关的实验结果，集中展示与归档。</p>
+      <a href="https://github.com/Liggggggg/Pensonal-Motion-Video-Generate"><b>查看项目 →</b></a>
+    </td>
+  </tr>
 </table>
 
 <p align="right">
